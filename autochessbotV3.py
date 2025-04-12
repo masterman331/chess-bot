@@ -12,7 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Path to Stockfish executable - modify this to your actual path
-STOCKFISH_PATH = r"C:\Users\Jájík\Downloads\stockfish-windows-x86-64-avx2\stockfish\stockfish-windows-x86-64-avx2.exe"
+STOCKFISH_PATH = r"C:\path\to\stockfish.exe"
 
 # Vertical offset correction (adjust if needed)
 VERTICAL_OFFSET = 120  # Negative means move up
