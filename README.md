@@ -110,3 +110,6 @@ This bot automates chess moves on Chess.com using the **Stockfish engine** for a
   This bot must **not** be used in rated games, tournaments, or against human players.  
 - **Ethical Use**:  
   This project is for testing automation logic and AI strategies. Misuse may result in account suspension.  
+
+> **Disclaimer:**  
+> This project has been vibe-coded please use it cautiously. - masterman331
